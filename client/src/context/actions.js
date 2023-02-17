@@ -1,0 +1,5 @@
+export const DISPLAY_SPINNER ='DISPLAY_SPINNER'
+export const CLEAR_SPINNER ='CLEAR_SPINNER'
+export const TOGGLE_SIDEBAR = 'TOGGLE_SIDEBAR'
+export const GET_USER = 'GET_USER'
+export const UPDATE_USER = 'UPDATE_USER'
